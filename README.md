@@ -8,6 +8,6 @@
 <img align="center" fit="fill" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 
-![github stats](https://github-readme-stats.vercel.app/api?username=Maul-Ana-15&show_icons=true&theme=radical)
-![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=Maul-Ana-15&layout=compact&theme=nightowl)
+![github stats](https://github-readme-stats.vercel.app/api?username=Maul&show_icons=true&theme=radical)
+![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=Maul&layout=compact&theme=nightowl)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=Maul-Ana&repo=testapi&theme=dark)
